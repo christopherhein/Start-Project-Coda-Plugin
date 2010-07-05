@@ -1,0 +1,37 @@
+*****************************************************************************
+***                 Coda Plugin For Starting Projects                     ***
+*****************************************************************************
+
+Builds out directorys:
+  /_assets
+  /_assets/css
+	/_assets/data
+	/_assets/downloads
+	/_assets/flv
+	/_assets/images
+	/_assets/images/global
+	/_assets/includes
+	/_assets/includes/resources
+	/_assets/scripts
+	/_assets/scripts/javascript
+	/_assets/scripts/javascript/jquery
+	/_assets/scripts/htc
+	
+Plus builds files:
+	/README
+	/index.html
+	/_assets/css/GlobalStyles.css
+	/_assets/css/ie6Styles.css
+	/_assets/css/GlobalReset.css
+	/_assets/scripts/javascript/GlobalScripts.js
+	/_assets/scripts/javascript/jquery/Blend-1.2.min.js"; 
+	/_assets/scripts/javascript/jquery/Corners-2.02.min.js"; 
+	/_assets/scripts/javascript/jquery/Cufon-1.09.min.js";
+	/_assets/scripts/javascript/jquery/Cycle.all-2.73.min.js";
+	/_assets/scripts/javascript/jquery/Easing-1.3.min.js";
+	/_assets/scripts/javascript/jquery/jQuery-1.4.1.min.js";
+	/_assets/scripts/htc/IEPNGFix.htc";
+	/_assets/includes/resources/IEPNGFix.php";
+	/_assets/images/global/blank.gif";
+	
+All of these good base files to start with for a php or any web dev project
